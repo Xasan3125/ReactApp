@@ -215,7 +215,8 @@ main .item img:hover,
 
 main h2,
 main p,
-main b .full-item h2,
+main b,
+.full-item h2,
 .full-item p,
 .full-item b {
   margin: 10px 20px;
